@@ -23,7 +23,7 @@
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/user-attachments/assets/a1584790-a4be-403c-aca4-8677a4844379" width="300"> | 사진2 | <img src="https://github.com/user-attachments/assets/9447ed4c-8318-4182-8d6c-f6e812a4c6df" width="300"> | 사진4 |
 | Front, Server | Font, IoT | Front, IoT | Front, IoT |
-| [제옹](https://github.com/JEONG-J) | [카야](깃허브 링크) | [원](깃허브 링크) | [앤](깃허브 링크) |
+| [제옹](https://github.com/JEONG-J) | [카야](깃허브 링크) | [원]([깃허브 링크](https://github.com/GthingkingG)) | [앤](깃허브 링크) |
 
 ## 📱 소개
 > 본 프로젝트는 병동 내 환자의 위치를 효율적으로 파악하기 위해 IoT 센서와 실내 지도를 결합한 환자 위치 관리 솔루션입니다. 환자에게 부착된 IoT 센서 데이터를 실시간으로 수집하고, 이를 병동 실내 지도와 매핑하여 간호사가 즉시 확인할 수 있도록 지원합니다.
