@@ -22,7 +22,7 @@
 | Jeong | Kaia | One | Anne |
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/user-attachments/assets/a1584790-a4be-403c-aca4-8677a4844379" width="300"> | <img src="https://github.com/user-attachments/assets/f8dcc3a9-86a8-4ef6-bec1-5839c4a16a4b" width="300"> |  | <img src="https://i.redd.it/who-do-you-think-will-win-in-an-eating-contest-mitsuri-vs-v0-3sgw4emtbylb1.jpg?width=540&format=pjpg&auto=webp&s=41837e189f6ddc53f965df3d04f91135a4e8b192" width="300"> |
-| Front, Server | Front, IoT | Front, IoT | Front, IoT |
+| Front, Server, Indoor Map | Front, IoT | IoT | Front, IoT |
 | [제옹](https://github.com/JEONG-J) | [카야](https://github.com/gahyejeon) | [원](https://github.com/GthingkingG) | [앤](깃허브 링크) |
 
 ## 📱 소개
