@@ -22,7 +22,7 @@
 | Jeong | Kaia | One | Anne |
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/user-attachments/assets/a1584790-a4be-403c-aca4-8677a4844379" width="300"> | 사진2 | <img src="https://github.com/user-attachments/assets/9447ed4c-8318-4182-8d6c-f6e812a4c6df" width="300"> | 사진4 |
-| Front, Server | Font, IoT | Front, IoT | Front, IoT |
+| Front, Server | Front, IoT | Front, IoT | Front, IoT |
 | [제옹](https://github.com/JEONG-J) | [카야](https://github.com/gahyejeon) | [원](https://github.com/GthingkingG) | [앤](깃허브 링크) |
 
 ## 📱 소개
