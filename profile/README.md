@@ -21,9 +21,9 @@
 
 | Jeong | Kaia | One | Anne |
 |:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/a1584790-a4be-403c-aca4-8677a4844379" width="300"> | <img src="https://github.com/user-attachments/assets/f8dcc3a9-86a8-4ef6-bec1-5839c4a16a4b" width="300"> |  | <img src="https://i.redd.it/who-do-you-think-will-win-in-an-eating-contest-mitsuri-vs-v0-3sgw4emtbylb1.jpg?width=540&format=pjpg&auto=webp&s=41837e189f6ddc53f965df3d04f91135a4e8b192" width="300"> |
+| <img src="https://github.com/user-attachments/assets/a1584790-a4be-403c-aca4-8677a4844379" width="300"> | <img src="https://github.com/user-attachments/assets/f8dcc3a9-86a8-4ef6-bec1-5839c4a16a4b" width="300"> | <img width="711" height="520" alt="스크린샷 2025-10-16 오후 8 00 30" src="https://github.com/user-attachments/assets/b5f2ac8e-0e51-4370-b223-46b248cdf196" /> | <img src="https://i.redd.it/who-do-you-think-will-win-in-an-eating-contest-mitsuri-vs-v0-3sgw4emtbylb1.jpg?width=540&format=pjpg&auto=webp&s=41837e189f6ddc53f965df3d04f91135a4e8b192" width="300"> |
 | Front, Server, Indoor Map | Front, IoT | IoT | Front, IoT |
-| [제옹](https://github.com/JEONG-J) | [카야](https://github.com/gahyejeon) | [원](https://github.com/GthingkingG) | [앤](깃허브 링크) |
+| [제옹](https://github.com/JEONG-J) | [카야](https://github.com/gahyejeon) | [원](https://github.com/GthingkingG) | [앤](http://naver.com) |
 
 ## 📱 소개
 > 본 프로젝트는 병동 내 환자의 위치를 효율적으로 파악하기 위해 IoT 센서와 실내 지도를 결합한 환자 위치 관리 솔루션입니다. 환자에게 부착된 IoT 센서 데이터를 실시간으로 수집하고, 이를 병동 실내 지도와 매핑하여 간호사가 즉시 확인할 수 있도록 지원합니다.
