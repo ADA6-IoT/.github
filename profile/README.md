@@ -1,4 +1,4 @@
-# 🚀 에쓰포항병원 갈끄니까~(프로젝트 가명^.^)
+# 🚀 파인듀
 <img width="600" src="https://github.com/user-attachments/assets/2e26c562-99ad-48a6-bbcd-f850c1ad434c" />
 
 > 실내지도를 활용하여 IoT센서를 지닌 병동 환자의 위치를 병동 간호사에게 리스트 형태로 제공하는 환자 위치 관리
